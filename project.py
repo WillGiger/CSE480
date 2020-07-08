@@ -1,8 +1,5 @@
 """
 Name: Will Giger
-Time To Completion: 5 hours
-Comments:
-Sources:
 """
 import string
 from operator import itemgetter
