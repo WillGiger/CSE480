@@ -24,8 +24,7 @@ class Connection(object):
 
     def __init__(self, filename,timeout=0,isolation_level=None):
         """
-        Takes a filename, but doesn't do anything with it.
-        (The filename will be used in a future project).
+        Takes a filename and saves
         """
         self.filename = filename
         self.transaction = 0
